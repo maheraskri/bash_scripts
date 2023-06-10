@@ -1,4 +1,6 @@
 #!/bin/bash 
+#Author: Meher 
+#Description : this a simple script to create users && groups 
 
 declare -A my_list
 
